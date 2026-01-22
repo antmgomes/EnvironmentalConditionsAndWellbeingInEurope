@@ -6,7 +6,7 @@ The goal of this project is not to establish causality, but to identify consiste
 
 
 ## Hypotheses and Key Findings:
-**1: Is there an association between NDVI and population density across countries?**
+### **1: Is there an association between NDVI and population density across countries?**
 H₀: There is no association between NDVI and population density.
 H₁: There is an association between NDVI and population density.
 
