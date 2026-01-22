@@ -8,49 +8,61 @@ The goal of this project is not to establish causality, but to identify consiste
 ## Hypotheses and Key Findings:
 ### **1: Is there an association between NDVI and population density across countries?**
 H₀: There is no association between NDVI and population density.
+
 H₁: There is an association between NDVI and population density.
 
 <img width="1216" height="711" alt="imagem" src="https://github.com/user-attachments/assets/e4f4648a-80bf-4da3-8ba0-31999e362dde" />
 
+
 The analysis reveals a positive association between NDVI and population density. Countries with higher NDVI tend to have higher population densities on average, although the relationship is weak and there is substantial variability.
 
-**2: Is there an association between NDVI and average mean temperature across countries?**
+### **2: Is there an association between NDVI and average mean temperature across countries?**
 H₀: There is no association between NDVI and average mean temperature.
+
 H₁: There is an association between NDVI and average mean temperature.
 
 <img width="1217" height="714" alt="imagem" src="https://github.com/user-attachments/assets/ad9c4c07-0738-44a2-bab5-c3b6838c122f" />
 
+
 The upward-sloping trend line indicates a positive association between NDVI and average annual mean temperature. Countries with higher NDVI tend to have higher mean temperatures on average. However, the spread of points suggests that this relationship is moderate and influenced by other factors.
 
-**3: Is there an association between NDVI and self-reported population health across countries?**
+### **3: Is there an association between NDVI and self-reported population health across countries?**
 H₀: There is no association between NDVI and self-reported population health.
+
 H₁: There is an association between NDVI and self-reported population health.
 
 <img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/be1e24a4-3a2a-498d-98d7-96f9acbba22a" />
 
+
 The analysis shows a negative association between NDVI and self-reported population health. On average, countries with higher NDVI have slightly lower population health, but the relationship is moderate.
 
-**4: Is there an association between NDVI and life expectancy at birth across countries?**
+### **4: Is there an association between NDVI and life expectancy at birth across countries?**
 H₀: There is no association between NDVI and life expectancy at birth.
+
 H₁: There is an association between NDVI and life expectancy at birth.
 
 <img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/308e4746-60a3-4d12-b5e7-754d82fd4c06" />
 
+
 The analysis shows no meaningful association between NDVI and life expectancy at birth.
 
-**5: Is there a relationship between happiness index and suicide rates across countries?**
+### **5: Is there a relationship between happiness index and suicide rates across countries?**
 H₀: There is no relationship between happiness index and suicide rates.
+
 H₁: There is a relationship between the happiness index and suicide rates.
 
 <img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/9e90dede-76cc-4244-ab95-05c4500e21ab" />
 
+
 The analysis shows a negative association between the happiness index and suicide rates. On average, countries with a higher happiness index have slightly lower suicide rates. However, the spread of points suggests that this relationship is weak and influenced by other factors.
 
-**6: Is there a relationship between the happiness index and average mean temperatures?**
+### **6: Is there a relationship between the happiness index and average mean temperatures?**
 H₀: There is no relationship between happiness index and average mean temperatures.
+
 H₁: There is a relationship between the happiness index and average mean temperatures.
 
 <img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/8c9691a7-3fc1-4a91-804b-76a8fd2ce339" />
+
 
 The analysis reveals a negative association between the happiness index and average annual temperatures. Countries with a higher happiness index tend to have slightly lower average annual temperatures on average, although the relationship is weak with substantial variability.
 
