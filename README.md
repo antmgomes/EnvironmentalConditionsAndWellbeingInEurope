@@ -31,7 +31,7 @@ H₀: There is no association between NDVI and self-reported population health.
 
 H₁: There is an association between NDVI and self-reported population health.
 
-<img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/be1e24a4-3a2a-498d-98d7-96f9acbba22a" />
+<img width="1242" height="715" alt="imagem" src="https://github.com/user-attachments/assets/1a8dd25e-56bd-4934-b903-06f6cb4a7c31" />
 
 
 The analysis shows a negative association between NDVI and self-reported population health. On average, countries with higher NDVI have slightly lower population health, but the relationship is moderate.
@@ -41,7 +41,7 @@ H₀: There is no association between NDVI and life expectancy at birth.
 
 H₁: There is an association between NDVI and life expectancy at birth.
 
-<img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/308e4746-60a3-4d12-b5e7-754d82fd4c06" />
+<img width="1242" height="715" alt="imagem" src="https://github.com/user-attachments/assets/da772567-aeba-4796-a83f-9b2530043836" />
 
 
 The analysis shows no meaningful association between NDVI and life expectancy at birth.
@@ -51,7 +51,7 @@ H₀: There is no relationship between happiness index and suicide rates.
 
 H₁: There is a relationship between the happiness index and suicide rates.
 
-<img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/9e90dede-76cc-4244-ab95-05c4500e21ab" />
+<img width="1242" height="716" alt="imagem" src="https://github.com/user-attachments/assets/1d0e0e6d-bcbc-4383-ae67-837abdc6aa65" />
 
 
 The analysis shows a negative association between the happiness index and suicide rates. On average, countries with a higher happiness index have slightly lower suicide rates. However, the spread of points suggests that this relationship is weak and influenced by other factors.
@@ -61,7 +61,7 @@ H₀: There is no relationship between happiness index and average mean temperat
 
 H₁: There is a relationship between the happiness index and average mean temperatures.
 
-<img width="1218" height="713" alt="imagem" src="https://github.com/user-attachments/assets/8c9691a7-3fc1-4a91-804b-76a8fd2ce339" />
+<img width="1242" height="716" alt="imagem" src="https://github.com/user-attachments/assets/02f3c5f9-24c8-4a35-bad1-659cdfc6c39b" />
 
 
 The analysis reveals a negative association between the happiness index and average annual temperatures. Countries with a higher happiness index tend to have slightly lower average annual temperatures on average, although the relationship is weak with substantial variability.
